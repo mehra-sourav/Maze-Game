@@ -1,2 +1,2 @@
 # Maze-Game
-User Playable Maze developed using C and OpenGL library
+User Playable Maze developed using C and OpenGL
